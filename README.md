@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cachij-kakao-navigation-mcp-server-badge.png)](https://mseep.ai/app/cachij-kakao-navigation-mcp-server)
+
 # Kakao Mobility & Kakao Map MCP Server
 
 [![MCP](https://img.shields.io/badge/MCP-Compliant-blue)](https://github.com/cursor-ai/model-context-protocol)
